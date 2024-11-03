@@ -17,10 +17,10 @@ timezone: Asia/Taipei
 
 title: Antiik # the main title
 
-tagline: Software, science, art & music # it will display as the subtitle
+tagline: Software, art & music # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Code, computers, science, music, art and graphics as a hobby, for example
+  Software, code, computers, music and art as a hobby, for example
   small applications, web development, research and games
 
 # Fill in the protocol & hostname for your site.
